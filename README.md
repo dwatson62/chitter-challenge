@@ -1,6 +1,8 @@
 Chitter Challenge, by Daryl Watson
 =======================
 
+[![Code Climate](https://codeclimate.com/github/dwatson62/chitter-challenge/badges/gpa.svg)](https://codeclimate.com/github/dwatson62/chitter-challenge)
+
 ## Synopsis
 
 This is my submission for the chitter challenge. User can signup, log in and out. Anybody can see all public peeps on the index page. Only logged in users can post peeps. Also, users can send private peeps to other users, and these won't be visible on the main feed.
