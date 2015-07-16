@@ -4,15 +4,10 @@ require './app/server'
 require 'database_cleaner'
 require 'capybara/rspec'
 require 'coveralls'
-require 'simplecov'
 
+Coveralls.wear!
 Capybara.app = Sinatra::Application
 
-SimpleCov.formatters = [
-  SimpleCov::Formatter::HTMLFormatter,
-  Coveralls::SimpleCov::Formatter
-]
-Coveralls.wear!
 
 RSpec.configure do |config|
 
