@@ -1,7 +1,7 @@
 Chitter Challenge, by Daryl Watson
 =======================
 
-[![Code Climate](https://codeclimate.com/github/dwatson62/chitter-challenge/badges/gpa.svg)](https://codeclimate.com/github/dwatson62/chitter-challenge) [![Build Status](https://travis-ci.org/dwatson62/chitter-challenge.svg?branch=master)](https://travis-ci.org/dwatson62/chitter-challenge)
+[![Code Climate](https://codeclimate.com/github/dwatson62/chitter-challenge/badges/gpa.svg)](https://codeclimate.com/github/dwatson62/chitter-challenge) [![Build Status](https://travis-ci.org/dwatson62/chitter-challenge.svg?branch=master)](https://travis-ci.org/dwatson62/chitter-challenge) [![Coverage Status](https://coveralls.io/repos/dwatson62/chitter-challenge/badge.svg?branch=master&service=github)](https://coveralls.io/github/dwatson62/chitter-challenge?branch=master)
 
 ## Synopsis
 
